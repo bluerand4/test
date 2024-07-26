@@ -3,4 +3,4 @@ cd test\
 python3 -m venv venv\
 venv\Scripts\activate\
 pip install torch\
-python test.py\
+python test.py
